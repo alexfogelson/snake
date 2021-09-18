@@ -4,7 +4,7 @@ Well, me, clearly. But first, some background.
 
 ## What this has to do with Pacman...
 In an interview with Lex Fridman, machine learning and artificial intellegince researcher Charles Isbell from Georgia Tech
-heeds caution programming novices to dip their feet in the coding deep end. He says endevouring to accomplish something great programmatically before
+cautions programming novices not to dip their feet in the coding deep end. He says endevouring to accomplish something great programmatically before
 learning the basics will almost surely lead to frustration, and eventually giving up. But after years of perfecting the skill, Isbell sat down to write Pacman
 in a day, with the hopes that it would be trivial after all this time. Indeed it was.
 
